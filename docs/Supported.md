@@ -3,6 +3,7 @@
 ## Fritz!OS
 
 - [x] Fritz!OS 7.39 Beta
+- [x] Fritz!OS 7.29
 - [x] Fritz!OS 7.27
 - [x] Fritz!OS 7.21
 - [x] Fritz!OS 7.2
